@@ -1,0 +1,16 @@
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\bin\Debug\net5.0\Classe.exe
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\bin\Debug\net5.0\Classe.deps.json
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\bin\Debug\net5.0\Classe.runtimeconfig.json
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\bin\Debug\net5.0\Classe.runtimeconfig.dev.json
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\bin\Debug\net5.0\Classe.dll
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\bin\Debug\net5.0\Classe.pdb
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\obj\Debug\net5.0\Classe.csproj.AssemblyReference.cache
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\obj\Debug\net5.0\Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\obj\Debug\net5.0\Classe.AssemblyInfoInputs.cache
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\obj\Debug\net5.0\Classe.AssemblyInfo.cs
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\obj\Debug\net5.0\Classe.csproj.CoreCompileInputs.cache
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\obj\Debug\net5.0\Classe.dll
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\obj\Debug\net5.0\refint\Classe.dll
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\obj\Debug\net5.0\Classe.pdb
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\obj\Debug\net5.0\Classe.genruntimeconfig.cache
+C:\Users\analo\Documents\ExercicioClasseC - Lista6 - novo\Solution1\Program\obj\Debug\net5.0\ref\Classe.dll
